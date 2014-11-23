@@ -1,5 +1,6 @@
-## functions create a special matrix that can cache the inversion of the matrix
-## and can returned the cached inversion if available  
+## functions create a special list object that can cache 
+## the inversion of a matrix with the matrix itself
+## and they can return the cached inversion if available  
 
 ## the function creates a list of functions that can set, get the matrix
 ## and the inversion of the matrix if provided
